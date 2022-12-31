@@ -1,3 +1,4 @@
+# TO START: 'retype watch'
 input: ./ # The local path from this retype.yml file to your content files.
           # See also: output
 
@@ -26,7 +27,7 @@ branding:
   colors:
     label:                  # Label colors
       text: "#ffffff"       # Custom color for the label text.
-      background: "#ff0000" # Custom color for the label background.
+      background: "#5865f2" # Custom color for the label background.
 
 # -----------------------------------------------------------------------------
 
@@ -34,11 +35,16 @@ links: # A list of custom links to add to the top bar of the generated website.
        # See also: footer.links
   - text: Home      # The text to use for the link
     link: https://servermanagerbot.ml # Link to an internal file or external URL.
+    icon: home
+    target: blank
   - text: Premium
     link: https://servermanagerbot.ml/premium  # Link to an internal file or external URL.
-    icon: gear      # A custom icon name, :emoji:, <svg>, or path to a file.
-    iconAlign: left # Icon alignment, to the left or right. Default is left.
+    icon: star     # A custom icon name, :emoji:, <svg>, or path to a file. ### https://primer.github.io/octicons/
     target: blank   # Custom target. Use blank to open link in a new window.
+  - text: Support
+    link: https://servermanagerbot.ml/support
+    icon: cloud
+    target: blank
 
 # -----------------------------------------------------------------------------
 
@@ -122,7 +128,7 @@ markdown:          # Markdown configuration options.
 # -----------------------------------------------------------------------------
 
 meta:
-  title: " | Widgets" # Appended to the <title> element on all pages.
+  title: " | Docs" # Appended to the <title> element on all pages.
 
 # -----------------------------------------------------------------------------
 
