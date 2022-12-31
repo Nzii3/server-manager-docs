@@ -8,12 +8,8 @@ output: .retype # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
-url: example.com               # The base URL of your website.
-url: docs.example.com          # Can also be a sub-domain.
-url: example.com/docs          # Can also include a sub-folder path.
-url: https://example.com/docs/ # Can also include a protocol.
-
-# -----------------------------------------------------------------------------
+url: docs.servermanagerbot.ml               # The base URL of your website.
+# ----------------------------------------------------------------------------
 
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
@@ -22,11 +18,11 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Example                 # Your custom website title; keep it short.
+  title: Server Manager                 # Your custom website title; keep it short.
   logo: static/logo.png          # Path to a logo file.
-  logoDark: static/logo-dark.png # Path to a logo file to use in dark mode.
-  logoAlign: right               # Align the logo to the right or the left.
-  label: Docs # Optional label. To remove the label, remove this config.
+  logoDark: static/logo.png # Path to a logo file to use in dark mode.
+  logoAlign: left               # Align the logo to the right or the left.
+  label: v1.2.2 # Optional label. To remove the label, remove this config.
   colors:
     label:                  # Label colors
       text: "#ffffff"       # Custom color for the label text.
@@ -37,9 +33,9 @@ branding:
 links: # A list of custom links to add to the top bar of the generated website.
        # See also: footer.links
   - text: Home      # The text to use for the link
-    link: https://example.com/ # Link to an internal file or external URL.
-  - text: API
-    link: /api.md   # Link to an internal file or external URL.
+    link: https://servermanagerbot.ml # Link to an internal file or external URL.
+  - text: Premium
+    link: https://servermanagerbot.ml/premium  # Link to an internal file or external URL.
     icon: gear      # A custom icon name, :emoji:, <svg>, or path to a file.
     iconAlign: left # Icon alignment, to the left or right. Default is left.
     target: blank   # Custom target. Use blank to open link in a new window.
@@ -50,8 +46,8 @@ footer:
   copyright: "© All rights reserved." # A custom copyright statement.
   links:               # A list of links to include in the footer.
                        # See also: links
-    - text: License    # The text to use for the link
-      link: license.md # Point to an internal file or external URL.
+    - text: Terms of Service    # The text to use for the link
+      link: https://servermanagerbot.ml/terms # Point to an internal file or external URL.
 
 # -----------------------------------------------------------------------------
 
@@ -61,12 +57,12 @@ cache:
 
 # -----------------------------------------------------------------------------
 
-cname: example.com # The CNAME file value, or false to not create a CNAME file.
+cname: servermanagerbot.ml # The CNAME file value, or false to not create a CNAME file.
 
 # -----------------------------------------------------------------------------
 
 edit:
-  repo: ""   # The URL where the source files for this project are located.
+  repo: "https://github.com/Nzii3/retype-docs"   # The URL where the source files for this project are located.
   base: ""   # Optional base path to a directory within the above repo.
   branch: "" # Point to a custom branch within the repo.
   label: "Edit this page" # A custom label for the generated link.
@@ -138,14 +134,14 @@ search:          # Custom configuration of the website search component.
   mode: full     # The search index creation mode.
                  # Options include: full | partial | basic
   noResultsFoundMsg: "No results" # Message when no results are found.
-  placeholder: Search # Placeholder text used in the search input field.
+  placeholder: Search... # Placeholder text used in the search input field.
 
 # -----------------------------------------------------------------------------
 
 server:
   host: 127.0.0.1       # Serve the website from this host location.
   host: 127.0.0.1:5005  # Custom port also supported.
-  port: 5005            # A custom port configurated separately from host.
+  port: 5000            # A custom port configurated separately from host.
   watch:
     mode: memory        # Where to host files from during retype watch.
                         # Options include: memory (default) | disk
