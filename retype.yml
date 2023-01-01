@@ -145,6 +145,9 @@ search:          # Custom configuration of the website search component.
 # -----------------------------------------------------------------------------
 
 server:
+  host: 127.0.0.1       # Serve the website from this host location.
+  host: 127.0.0.1:5005  # Custom port also supported.
+  port: 5000            # A custom port configurated separately from host.
   watch:
     mode: memory        # Where to host files from during retype watch.
                         # Options include: memory (default) | disk
