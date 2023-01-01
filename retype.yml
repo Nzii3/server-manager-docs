@@ -9,7 +9,7 @@ output: .retype # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
-url: url: nzii3.github.io/server-manager-docs/              # The base URL of your website.
+url: nzii3.github.io/server-manager-docs/              # The base URL of your website.
 # ----------------------------------------------------------------------------
 
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
