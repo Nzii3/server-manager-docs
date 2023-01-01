@@ -13,4 +13,3 @@ Key | Example | Output
 !!!warning Warning
 Decimal arguments (such as `0.5 minutes` - 30 seconds) are not supported at this time.
 !!!
-
