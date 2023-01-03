@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nzii3.github.io/server-manager-docs/sitemap.xml.gz
+Sitemap: https://docs.servermanagerbot.ml/sitemap.xml.gz
