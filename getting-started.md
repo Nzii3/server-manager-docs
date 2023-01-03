@@ -6,7 +6,6 @@ order: 1
 Getting started with Server Manager is simple.
 
 ## Log Channel
----
 You're going to want to set the `log_channel` where logs will go (including moderation actions).
 
 To do this, you can use the [!badge variant="info" text="/config log_channel"] command.
