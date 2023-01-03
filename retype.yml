@@ -63,7 +63,7 @@ cache:
 
 # -----------------------------------------------------------------------------
 
-cname: false # The CNAME file value, or false to not create a CNAME file. # docs.servermanagerbot.ml
+cname: servermanagerbot.ml # The CNAME file value, or false to not create a CNAME file. # docs.servermanagerbot.ml
 
 # -----------------------------------------------------------------------------
 
