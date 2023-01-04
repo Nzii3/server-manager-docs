@@ -7,4 +7,15 @@ Name | Description | Example |
 `/warnings` | View a member's warnings |
 `/remove_warning` | Remove a warning by ID | `/remove_warning id:059185`
 `/delete_all_warnings` | Delete **ALL** warnings from your server - useful if the bot is acting slow when warning users in your server |
-`/ban` | Ban a member from the server | `/ban member:@vNziie-- reason:More spam!`
+`/kick` | Kick a member from the server | `/kick member:@vNziie-- reason:More spam`
+`/ban` | Ban a member from the server | `/ban member:@vNziie-- reason:Stop spamming!`
+`/purge` | Purge messags from the current channel (max 1,000) | `/purge amount:10`
+
+## Cases
+We've implemented our own cases system so you can look back on a user's history, even if they aren't in the server.
+
+Name | Description | Example
+--- | --- | --- |
+`/case` | View a case by ID | `/case case_id:L18d60Gj63W`
+`/cases` | View cases for the whole server for a user
+`/createcase` | Create a custom case for a user | `/createcase member:@vNziie-- reason:I think they are a bad dev. proof:https://redirect.nziie.is-a.dev/proof`
