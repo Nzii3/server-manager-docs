@@ -8,7 +8,7 @@ Name | Description | Example
 `/poll multiple_choice` | Start a multiple choice poll | `/poll multiple_choice topic:Do you enjoy Discord? option_1:Yes option_2:Maybe option_3:Not really`
 `/poll end` | End a poll via ID | `/poll end poll_id:48176890`
 
-=== Example Images
+==- Example Images
 ![Starting a poll (yes/no)](/static/polls1.png)
 ![Starting a poll (multiple choice)](/static/polls2.png)
 ![Ending a poll](/static/polls3.png)
