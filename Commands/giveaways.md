@@ -12,3 +12,9 @@ Name | Description | Example |
 <span style="color:#e74c3c">*</span> The `giveaway_id` is the giveaway's message ID, you'll need to use that.
 
 <span style="color:#e74c3c">**</span> Please use the `/giveaway delete` command when wanting to delete a giveaway, deleting the message doesn't remove it from the database and doing so can mean lower performance for your server specifically when managing giveaways.
+
+==- Example Images
+![Creating a giveaway](/static/giveaways1.png)
+![(Reaction) Giveaway started](/static/giveaways2.png)
+![(Button) Entering giveaway](/static/giveaways3.png)
+===

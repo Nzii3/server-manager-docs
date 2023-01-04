@@ -12,5 +12,7 @@ Server members with [!badge variant="info" text="Administrator"] permissions alw
 If you have [!badge variant="info" text="Manage Guild"] permissions and still aren't able to use moderator/admin commands, you need to follow the [!badge variant="info" text="Admin Roles"] and [!badge variant="info" text="Moderator Roles"] checks. Ask Server Administrators to set those configurations so other staff members can use Server Manager to it's full potential.
 
 ### Time arguments aren't working, why?
-For more information about time arguments, visit our [!button size="xs" text="Time Arguments"](time-arguments.md) page. If you still need help, feel free to reach out to us in our [Support Server](https://servermanagerbot.ml).
+For more information about time arguments, visit our [!button size="xs" text="Time Arguments"](time-arguments.md) page. If you still need help, feel free to reach out to us in our [Support Server](https://servermanagerbot.ml/support).
 
+### Other
+If you're encountering something not listed here, feel free to join our [!button size="xs" text="Support Server"](https://servermanagerbot.ml/support) so we can tackle your request.
