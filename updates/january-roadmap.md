@@ -8,7 +8,10 @@ authors:
 
 A new year is among us! We've got a ton of features planned for Server Manager this year. With that said, here are the upcoming changes coming to Server Manager in the upcoming month.
 
-- [ ] New website
+- [x] New website
+- [x] Finish new documentation website
+- [ ] Custom commands system
+- [ ] Use shards (faster performance & stability)
 - [ ] RPS (Rock, Paper, Scissors) command
 - [ ] Unmute command
 
