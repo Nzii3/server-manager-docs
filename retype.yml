@@ -20,8 +20,8 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 
 branding:
   title: Server Manager                 # Your custom website title; keep it short.
-  logo: static/logo.png          # Path to a logo file.
-  logoDark: static/logo.png # Path to a logo file to use in dark mode.
+  logo: static/logo_circle.png          # Path to a logo file.
+  logoDark: static/logo_circle.png # Path to a logo file to use in dark mode.
   logoAlign: left               # Align the logo to the right or the left.
   label: v1.2.2 # Optional label. To remove the label, remove this config.
   colors:
@@ -88,7 +88,7 @@ exclude: # A list of files or folders to exclude from the build process.
 
 # -----------------------------------------------------------------------------
 
-favicon: static/favicon.png # Path to a custom favicon, or.
+favicon: static/logo_circle.png # Path to a custom favicon, or.
                             # just put a favicon.ico in your project root.
 
 # -----------------------------------------------------------------------------
