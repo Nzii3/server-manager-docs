@@ -10,6 +10,7 @@ A new year is among us! We've got a ton of features planned for Server Manager t
 
 - [x] New website
 - [x] Finish new documentation website
+- [ ] Reminders system
 - [ ] Custom commands system
 - [ ] Use shards (faster performance & stability)
 - [ ] RPS (Rock, Paper, Scissors) command
