@@ -31,3 +31,8 @@ authors:
 - Beefed up embed builder to support basic placeholders for building embeds to use in other systems
 - Rewrote premium system to support slots for premium servers, beta access slots, and custom branded bot slots
 - Started to rewrite moderation responses and behavior
+
+## 5/23/2023 PST
+- Fixed bugs in the embed builder
+- Rewrote ban, warn, kick, and mute commands to support embed responses and user DMs
+- Rewrote the commands above to support placeholders/variables
