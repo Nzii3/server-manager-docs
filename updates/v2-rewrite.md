@@ -36,3 +36,6 @@ authors:
 - Fixed bugs in the embed builder
 - Rewrote ban, warn, kick, and mute commands to support embed responses and user DMs
 - Rewrote the commands above to support placeholders/variables
+
+## 5/24/2023 PST
+- 
