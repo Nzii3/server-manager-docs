@@ -38,4 +38,5 @@ authors:
 - Rewrote the commands above to support placeholders/variables
 
 ## 5/24/2023 PST
-- 
+- Fix bugs in the embed builder
+- Finish `/config show` command to show all configs, their current value, and help info
