@@ -36,3 +36,7 @@ authors:
 - Fixed bugs in the embed builder
 - Rewrote ban, warn, kick, and mute commands to support embed responses and user DMs
 - Rewrote the commands above to support placeholders/variables
+
+## 5/24/2023 PST
+- Fix bugs in the embed builder
+- Finish `/config show` command to show all configs, their current value, and help info
