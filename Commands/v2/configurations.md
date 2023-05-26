@@ -1,5 +1,7 @@
 # Configurations
 
+## Commands
+
 Name | Description | Example |
 --- | --- | --- |
 [!badge variant="info" text="/config show"] | View all configurations, their current value, description, and more information on said configuration | -
@@ -35,8 +37,35 @@ Placeholder | Description |
 
 ### Moderation Placeholders
 
-Placeholder | Description | Example |
---- | --- | --- |
+The following categories use these placeholders:
+#### Ban Placeholders
+#### Kick Placeholders
+#### Mute Placeholders
+---
+Placeholder | Description |
+--- | --- |
 `{case.id}` | Linked case ID
 `{duration}` | Duration of the action
 `{reason}` | Reason for the action
+
+#### Warn Placeholders
+An extra placeholder is added in this category to show how many warnings a member has with the correct suffix.
+
+---
+
+Placeholder | Description | Example
+--- | --- | --- |
+`{case.warning_number_with_suffix}` | Warning number with suffix (e.g. `st`, `nd`, `rd`, `th`, etc.) | 1st
+
+### Suggestions Placeholders
+These placeholders are used in the `suggestion.embed` configuration.
+
+---
+Placeholder | Description | Example
+--- | --- | --- |
+`{suggestion.content}` | Suggestion's content, what they are actually suggesting | More updates!
+`{suggestion.id}` | Suggestion's generated ID, for future status marking, deleting, editing, etc. | fXpVdLYn8BkCZ
+`{suggestion.future.upvotes}` | Raw number of upvotes the suggestion has | 7
+`{suggestion.future.upvotes_percent}` | Calculated percent of upvotes compared to downvotes, this and `{suggestion.future.downvotes_percent}` add up to 100% | 85%
+`{suggestion.future.downvotes}` | Raw number of downvotes the suggestion has | 3
+`{suggestion.future.downvotes_percent}` | Calculated percent of downvotes compared to upvotes, this and `{suggestion.future.upvotes_percent}` add up to 100% | 15%
