@@ -12,6 +12,3 @@ A new year is among us! We've got a ton of features planned for Server Manager t
 - [x] Finish new documentation website
 - [x] Custom commands system
 - [x] RPS (Rock, Paper, Scissors) command
-- [ ] Reminders system
-- [ ] Use shards (faster performance & stability)
-- [ ] Unmute command
