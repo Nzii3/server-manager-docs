@@ -44,3 +44,4 @@ authors:
 ## 5/26/2023 PST
 - Add `suggestions.embed` configuration to allow customization of the embed template used when suggesting something
 - Fix more embed builder bugs
+
