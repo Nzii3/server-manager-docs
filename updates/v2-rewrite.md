@@ -45,3 +45,6 @@ authors:
 - Add `suggestions.embed` configuration to allow customization of the embed template used when suggesting something
 - Fix more embed builder bugs
 
+## 5/27/2023 PST
+- Rewrote suggestion marking
+- **BREAKING:** Changed `/suggestions ...` group to `/suggestion ...`
