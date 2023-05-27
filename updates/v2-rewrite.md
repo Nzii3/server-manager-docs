@@ -40,3 +40,7 @@ authors:
 ## 5/24/2023 PST
 - Fix bugs in the embed builder
 - Finish `/config show` command to show all configs, their current value, and help info
+
+## 5/26/2023 PST
+- Add `suggestions.embed` configuration to allow customization of the embed template used when suggesting something
+- Fix more embed builder bugs
