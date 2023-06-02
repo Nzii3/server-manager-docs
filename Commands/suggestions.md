@@ -16,6 +16,10 @@ Name | Description | Example |
 
 <span style="color:#e74c3c">*</span> This command can only be used by server moderators+ or the suggestion author
 
+## Customizable Embeds
+The following embeds are customizable via embed builder when using the `/config set` command:
+- `suggestion.embed`
+
 ==- Example Images
 ![Suggest something](/static/suggestions1.png)
 ![Suggestion voting](/static/suggestions2.png)

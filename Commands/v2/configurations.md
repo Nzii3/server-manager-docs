@@ -69,3 +69,4 @@ Placeholder | Description | Example
 `{suggestion.future.upvotes_percent}` | Calculated percent of upvotes compared to downvotes, this and `{suggestion.future.downvotes_percent}` add up to 100% | 85%
 `{suggestion.future.downvotes}` | Raw number of downvotes the suggestion has | 3
 `{suggestion.future.downvotes_percent}` | Calculated percent of downvotes compared to upvotes, this and `{suggestion.future.upvotes_percent}` add up to 100% | 15%
+

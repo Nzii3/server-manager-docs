@@ -13,6 +13,9 @@ Name | Description | Example |
 
 <span style="color:#e74c3c">**</span> Please use the `/giveaway delete` command when wanting to delete a giveaway, deleting the message doesn't remove it from the database and doing so can mean lower performance for your server specifically when managing giveaways.
 
+## Customized Embeds
+With the `giveaway_embed` configuration, you can customize the embed that is sent when a giveaway is hosted. See the [Configurations](../configurations) tab for more info.
+
 ==- Example Images
 ![Creating a giveaway](/static/giveaways1.png)
 ![(Reaction) Giveaway started](/static/giveaways2.png)
