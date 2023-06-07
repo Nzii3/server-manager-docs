@@ -2,7 +2,7 @@
 :wave: Welcome to the **Server Manager Documentation** page! Here, you can find helpful documentation regarding Server Manager's commands, features, and more. Server Manager is a unique Discord bot that gives server moderators and admins easy and reliable ways to moderate servers, create forms, create interactive giveaways, create polls to vote on and more!
 
 !!!success 🔖 v2 Rewrite
-Server Manager is going through a full rewrite to add features, customization, and much more! [Learn more.](/updates/v2-rewrite)
+Server Manager v2.0.0 has released! [Learn more about the updates.](/updates/v2)
 !!!
 
 
@@ -18,4 +18,4 @@ Server Manager is going through a full rewrite to add features, customization, a
 ---
 
 ## Support
-If you need support, feel free to join our [!button size="xs" text="Support Server"](https://servermanagerbot.ml) and ask for help.
+If you need support, feel free to join our [!button size="xs" variant="success" text="Support Server"](https://servermanagerbot.ml) and ask for help.

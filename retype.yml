@@ -23,7 +23,7 @@ branding:
   logo: static/logo_circle.png          # Path to a logo file.
   logoDark: static/logo_circle.png # Path to a logo file to use in dark mode.
   logoAlign: left               # Align the logo to the right or the left.
-  label: v2.0.0 # Optional label. To remove the label, remove this config.
+  label: v2.0.1 # Optional label. To remove the label, remove this config.
   colors:
     label:                  # Label colors
       text: "#ffffff"       # Custom color for the label text.
@@ -139,7 +139,7 @@ search:          # Custom configuration of the website search component.
   minChars: 2    # Min number of characters required to trigger a sear.ch
   mode: full     # The search index creation mode.
                  # Options include: full | partial | basic
-  noResultsFoundMsg: "No results" # Message when no results are found.
+  noResultsFoundMsg: "No results, try again with a different query." # Message when no results are found.
   placeholder: Search... # Placeholder text used in the search input field.
 
 # -----------------------------------------------------------------------------

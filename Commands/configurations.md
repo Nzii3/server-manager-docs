@@ -1,5 +1,13 @@
 # Configurations
 
+!!!success Recent changes
+- Added embed configurations
+- Added embed builder support
+- Moved all configurations to one command: [!badge variant="info" text="/config set"]
+
+See [recent updates](/updates) for more information.
+!!!
+
 ## Commands
 
 Name | Description | Example |
