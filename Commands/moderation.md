@@ -6,6 +6,7 @@
 - Renamed [!badge variant="info" text="/remove_warning"] to [!badge variant="info" text="/delwarn"] for ease-of-use
 - Added [custom embed support](#customized-embeds)
 - Fixed bugs
+- Added [FAQ](#faq)
 
 See [recent updates](/updates) for more information.
 !!!
@@ -18,6 +19,13 @@ Name | Description | Example |
 [!badge variant="info" text="/kick"] | Kick a member from the server | `/kick member:@vNziie-- reason:More spam`
 [!badge variant="info" text="/ban"] | Ban a member from the server | `/ban member:@vNziie-- reason:Stop spamming!`
 [!badge variant="info" text="/purge"] | Purge messags from the current channel (max 1,000) | `/purge amount:10`
+
+## FAQ
+==- How do I force-ban a member?
+You can force-ban a member if they aren't in the server by using the [!badge variant="info" text="/ban"] command like normal, but the bot will provide you with a **Yes** or **No** prompt of whether you'd like to force ban them because they aren't in the server. Click the **Yes** button and it will force ban the user from the server.
+
+![Force-ban prompt](https://cdn.nziie.xyz/u/files/eGmRdwoIDcRP)
+===
 
 ## Customizable Embeds
 The following configurations edit responses and user DMs ([⭐](https://servermanagerbot.ml/premium) notes the configuration is unlocked when purchasing premium).
