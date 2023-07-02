@@ -26,6 +26,7 @@ Name | Description | Example |
 [!badge variant="info" text="/messages delete"] | Delete a message template | [!badge variant="info" text="/messages delete name:Self roles"]
 [!badge variant="info" text="/buttons delete"] | Delete a button template | [!badge variant="info" text="/buttons delete unique_id:giveaways-role-button"]
 **Sending:** [!badge variant="info" text="/messages send"] | Send a message template in a channel | [!badge variant="info" text="/messages send name:Self roles"]
+**Editing:** [!badge variant="info" text="/messages edit_message"] | Edit a message (or bot webhook message) to update the template on that message | [!badge variant="info" text="/messages edit_message message_id:1017856153718925112 channel:#development name:Self roles"]
 
 
 ## Buttons
