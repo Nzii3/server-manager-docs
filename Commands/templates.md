@@ -19,13 +19,13 @@ Message templates can be sent in channels (optional webhook to send with) with b
 
 Name | Description | Example |
 --- | --- | --- |
-[!badge variant="info" text="/templates messages create"] | Create a message template | [!badge variant="info" text="/templates messages create name:Self roles"]
-[!badge variant="info" text="/templates buttons create"] | Create a button template for a message | [!badge variant="info" text="/templates buttons create label:Giveaways unique_id:giveaways-role-button color:Green"]
-[!badge variant="info" text="/templates messages edit"] | Edit a message template | [!badge variant="info" text="/templates messages edit name:Self roles"]
-[!badge variant="info" text="/templates buttons edit"] | Edit a button template | [!badge variant="info" text="/templates buttons edit unique_id:giveaways-role-button"]
-[!badge variant="info" text="/templates messages delete"] | Delete a message template | [!badge variant="info" text="/templates messages delete name:Self roles"]
-[!badge variant="info" text="/templates buttons delete"] | Delete a button template | [!badge variant="info" text="/templates buttons delete unique_id:giveaways-role-button"]
-**Sending:** [!badge variant="info" text="/templates messages send"] | Send a message template in a channel | [!badge variant="info" text="/templates messages send name:Self roles"]
+[!badge variant="info" text="/messages create"] | Create a message template | [!badge variant="info" text="/messages create name:Self roles"]
+[!badge variant="info" text="/buttons create"] | Create a button template for a message | [!badge variant="info" text="/buttons create label:Giveaways unique_id:giveaways-role-button color:Green"]
+[!badge variant="info" text="/messages edit"] | Edit a message template | [!badge variant="info" text="/messages edit name:Self roles"]
+[!badge variant="info" text="/buttons edit"] | Edit a button template | [!badge variant="info" text="/buttons edit unique_id:giveaways-role-button"]
+[!badge variant="info" text="/messages delete"] | Delete a message template | [!badge variant="info" text="/messages delete name:Self roles"]
+[!badge variant="info" text="/buttons delete"] | Delete a button template | [!badge variant="info" text="/buttons delete unique_id:giveaways-role-button"]
+**Sending:** [!badge variant="info" text="/messages send"] | Send a message template in a channel | [!badge variant="info" text="/messages send name:Self roles"]
 
 
 ## Buttons
