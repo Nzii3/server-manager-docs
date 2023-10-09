@@ -1,0 +1,183 @@
+{
+  "version": "3.5.0",
+  "created": "2023-10-09T21:42:01Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "commands\\configurations\\index.html"
+    },
+    {
+      "path": "commands\\forms\\index.html"
+    },
+    {
+      "path": "commands\\giveaways\\index.html"
+    },
+    {
+      "path": "commands\\index.html"
+    },
+    {
+      "path": "commands\\moderation\\index.html"
+    },
+    {
+      "path": "commands\\polls\\index.html"
+    },
+    {
+      "path": "commands\\suggestions\\index.html"
+    },
+    {
+      "path": "commands\\templates\\index.html"
+    },
+    {
+      "path": "commands\\utility\\index.html"
+    },
+    {
+      "path": "getting-started\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\prism.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\custom.scss"
+    },
+    {
+      "path": "static\\forms1.png"
+    },
+    {
+      "path": "static\\forms2.png"
+    },
+    {
+      "path": "static\\forms3.png"
+    },
+    {
+      "path": "static\\forms4.png"
+    },
+    {
+      "path": "static\\forms5.png"
+    },
+    {
+      "path": "static\\giveaways1.png"
+    },
+    {
+      "path": "static\\giveaways2.png"
+    },
+    {
+      "path": "static\\giveaways3.png"
+    },
+    {
+      "path": "static\\logo_circle.png"
+    },
+    {
+      "path": "static\\logo.png"
+    },
+    {
+      "path": "static\\nziie.png"
+    },
+    {
+      "path": "static\\polls1.png"
+    },
+    {
+      "path": "static\\polls2.png"
+    },
+    {
+      "path": "static\\polls3.png"
+    },
+    {
+      "path": "static\\suggestions1.png"
+    },
+    {
+      "path": "static\\suggestions2.png"
+    },
+    {
+      "path": "static\\suggestions3.png"
+    },
+    {
+      "path": "static\\suggestions4.png"
+    },
+    {
+      "path": "static\\suggestions5.png"
+    },
+    {
+      "path": "static\\templates1.png"
+    },
+    {
+      "path": "static\\templates2.png"
+    },
+    {
+      "path": "time-arguments\\index.html"
+    },
+    {
+      "path": "troubleshooting\\index.html"
+    },
+    {
+      "path": "updates\\index.html"
+    },
+    {
+      "path": "updates\\january-roadmap\\index.html"
+    },
+    {
+      "path": "updates\\v1.2.3\\index.html"
+    },
+    {
+      "path": "updates\\v1.3.0\\index.html"
+    },
+    {
+      "path": "updates\\v2-rewrite\\index.html"
+    },
+    {
+      "path": "updates\\v2\\index.html"
+    }
+  ]
+}

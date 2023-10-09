@@ -9,7 +9,7 @@ output: .retype # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
-url: docs.servermanagerbot.xyz           # The base URL of your website.
+url: docs.manager.nziie.xyz          # The base URL of your website.
 # ----------------------------------------------------------------------------
 
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
@@ -34,15 +34,15 @@ branding:
 links: # A list of custom links to add to the top bar of the generated website.
        # See also: footer.links
   - text: Home      # The text to use for the link
-    link: https://servermanagerbot.ml # Link to an internal file or external URL.
+    link: https://manager.nziie.xyz # Link to an internal file or external URL.
     icon: home
     target: blank
   - text: Premium
-    link: https://servermanagerbot.ml/premium  # Link to an internal file or external URL.
+    link: https://manager.nziie.xyz/premium  # Link to an internal file or external URL.
     icon: star     # A custom icon name, :emoji:, <svg>, or path to a file. ### https://primer.github.io/octicons/
     target: blank   # Custom target. Use blank to open link in a new window.
   - text: Support
-    link: https://servermanagerbot.ml/support
+    link: https://manager.nziie.xyz/support
     icon: cloud
     target: blank
 
@@ -53,7 +53,7 @@ footer:
   links:               # A list of links to include in the footer.
                        # See also: links
     - text: Terms of Service    # The text to use for the link
-      link: https://servermanagerbot.ml/terms # Point to an internal file or external URL.
+      link: https://manager.nziie.xyz/terms # Point to an internal file or external URL.
 
 # -----------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ cache:
 
 # -----------------------------------------------------------------------------
 
-cname: docs.servermanagerbot.ml # The CNAME file value, or false to not create a CNAME file. # docs.servermanagerbot.ml
+cname: docs.manager.nziie.xyz # The CNAME file value, or false to not create a CNAME file.
 
 # -----------------------------------------------------------------------------
 
