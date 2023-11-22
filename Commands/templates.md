@@ -2,7 +2,7 @@
 
 !!!success Recent changes
 - Addition of the templates system
-- Big fixes
+- Bug fixes
 !!!
 
 === What are templates?
