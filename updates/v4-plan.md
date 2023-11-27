@@ -1,3 +1,9 @@
+---
+authors:
+  - name: Nziie
+    avatar: https://cdn.nziie.is-a.dev/u/files/XLuj6e2Zm19R
+---
+
 # v4 Update Plan
 
 Greetings, everyone! I appreciate your understanding as I share some crucial updates for this support server. I've made the decision to rebrand Server Manager for its upcoming v4 version. Collaborating with a longstanding development team, the new bot, **[HelpYourServer (or HYS)](<https://hys.nziie.xyz>)**, is in the works, maintaining the naming convention from its predecessor, BumpYourServer.
