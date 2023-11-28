@@ -24,7 +24,10 @@ Feel free to continue utilizing Server Manager as usual. The subsequent announce
 Server Manager has been an extraordinary project, and the positive feedback received through direct messages has been heartening. I'm excited about HelpYourServer, a continuation of Server Manager's legacy, crafted by an exceptional development team and backed by 2 amazing communities, Server Manager's and BumpYourServer's.
 
 > **Join HYS Support For Updates:** https://discord.gg/uAUvHfPhKf
-> **HYS Beta Tester Application:** https://forms.gle/VQUFGwB7gCZmQzi1A
 > **HYS Sneak Peaks:** https://hys.nziie.xyz/#helpyourserver-sneak-peak
+
+## HYS Beta Applications
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScr4Vz5tXG6fuf2GqundgIaiSSSENBU2KbAtpxuiETQRwvZSQ/viewform?embedded=true" width="640" height="1904" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ![HYS Banner](https://cdn.discordapp.com/attachments/1076289923826589832/1174866178221543574/HelpYourServer_Banner.png?ex=657260e4&is=655febe4&hm=f903004475ce597f9f16eea42813ca8084c9ef3086c6ee325942897b4df2f426&)
