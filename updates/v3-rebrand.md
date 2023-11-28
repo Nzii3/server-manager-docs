@@ -4,9 +4,9 @@ authors:
     avatar: https://cdn.nziie.is-a.dev/u/files/XLuj6e2Zm19R
 ---
 
-# v4 Update Plan
+# v3 Update Plan (Rebrand)
 
-Greetings, everyone! I appreciate your understanding as I share some crucial updates for this support server. I've made the decision to rebrand Server Manager for its upcoming v4 version. Collaborating with a longstanding development team, the new bot, **[HelpYourServer (or HYS)](<https://hys.nziie.xyz>)**, is in the works, maintaining the naming convention from its predecessor, BumpYourServer.
+Greetings, everyone! I appreciate your understanding as I share some crucial updates for this support server. I've made the decision to **rebrand** Server Manager for its upcoming v3 version. Collaborating with a longstanding development team, the new bot, **[HelpYourServer (or HYS)](<https://hys.nziie.xyz>)**, is in the works, maintaining the naming convention from its predecessor, BumpYourServer.
 
 HelpYourServer will primarily function as an advanced moderation bot, with the integration of enhanced and reimagined features from Server Manager. Notably, functionalities like Giveaways, Forms, Suggestions, Polls, and Templates will be temporarily paused until the release of either v1.5 or v2, both of which are major updates.
 
