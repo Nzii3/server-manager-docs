@@ -9,7 +9,7 @@ output: .retype # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
-url: hys.nziie.xyz     # The base URL of your website.
+url: https://nzii3.github.io/hys-gitbook-docs/     # The base URL of your website.
 # ----------------------------------------------------------------------------
 
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
