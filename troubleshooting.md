@@ -1,6 +1,6 @@
 # Troubleshooting
 ---
-Have a problem with **Server Manager**? This is the place for you! If you've gone through this page and still need help, feel free to join our [Support Server](https://manager.nziie.xyz).
+Have a problem with **Server Manager**? This is the place for you! If you've gone through this page and still need help, feel free to join our [Support Server](https://manager.nziie.xyz). 
 
 ### It says I'm missing permissions, how?
 Server Manager uses it's own custom permissions system that is easy to use and can be found when setting [!button size="xs" text="Configurations"](commands/configurations.md) and setting either the [!badge variant="info" text="Admin Roles"] or [!badge variant="info" text="Moderator Roles"] configurations.
