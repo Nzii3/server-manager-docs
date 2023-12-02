@@ -1,12 +1,8 @@
----
-icon: feed-star
----
+# Welcome
+:wave: Welcome to the **Server Manager Documentation** page! Here, you can find helpful documentation regarding Server Manager's commands, features, and more. Server Manager is a unique Discord bot that gives server moderators and admins easy and reliable ways to moderate servers, create forms, create interactive giveaways, create polls to vote on and more!
 
-# Home
-:wave: Introducing **HelpYourServer**, the Discord bot designed to be your ultimate moderation companion! With advanced moderation commands, seamless appeals, and customizable permission whitelists, empower your server with enhanced control and user management. Elevate your community experience effortlessly with HelpYourServer's comprehensive features and unparalleled ease of use.
-
-!!!info 🔖 v1.0.0-beta
-HelpYourServer is not fully released yet and is in the beta testing stage with our Beta Testers team. The expected launch date is **1/7/2024 (January 7th, 2024).**
+!!!success 🔖 v2 Rewrite
+Server Manager v2.0.0 has released! [Learn more about the updates.](/updates/v2)
 !!!
 
 
