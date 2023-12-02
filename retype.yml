@@ -9,7 +9,7 @@ output: .retype # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
-url: docs.manager.nziie.xyz          # The base URL of your website.
+url: hys.nziie.xyz     # The base URL of your website.
 # ----------------------------------------------------------------------------
 
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
@@ -19,15 +19,15 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Server Manager                 # Your custom website title; keep it short.
+  title: HelpYourServer                # Your custom website title; keep it short.
   logo: static/logo_circle.png          # Path to a logo file.
   logoDark: static/logo_circle.png # Path to a logo file to use in dark mode.
   logoAlign: left               # Align the logo to the right or the left.
-  label: v2.4.1 # Optional label. To remove the label, remove this config.
+  label: Beta # Optional label. To remove the label, remove this config.
   colors:
     label:                  # Label colors
       text: "#ffffff"       # Custom color for the label text.
-      background: "#5865f2" # Custom color for the label background.
+      background: "#1c3ed1"
 
 # -----------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ cache:
 
 # -----------------------------------------------------------------------------
 
-cname: docs.manager.nziie.xyz # The CNAME file value, or false to not create a CNAME file.
+cname: hys.nziie.xyz # The CNAME file value, or false to not create a CNAME file.
 
 # -----------------------------------------------------------------------------
 
@@ -128,7 +128,7 @@ markdown:          # Markdown configuration options.
 # -----------------------------------------------------------------------------
 
 meta:
-  title: " | Server Manager" # Appended to the <title> element on all pages.
+  title: " | HelpYourServer" # Appended to the <title> element on all pages.
 
 # -----------------------------------------------------------------------------
 

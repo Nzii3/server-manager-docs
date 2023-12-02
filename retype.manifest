@@ -1,7 +1,75 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-09T21:42:01Z",
+  "created": "2023-12-02T02:05:03Z",
   "files": [
+    {
+      "path": ".gitbook\\assets\\bump-commands",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\bumping_commands_banner.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\bumpsettings.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\bys_banner.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\bys_banner2.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\bys.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\dark-blue-white-modern-linktree-background-(1).png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\dark-blue-white-modern-linktree-background.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\getting-started",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\helpyourserver-banner-2.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\helpyourserver-banner-icon-only.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\helpyourserver-banner.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\hys-showcase-_-helpyourserver-support---discord-2023-11-26-15-13-10.mp4",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\jon.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\premium_banner.png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\premium_commands_banner-(1).png",
+      "old": true
+    },
+    {
+      "path": ".gitbook\\assets\\troubleshooting",
+      "old": true
+    },
     {
       "path": ".nojekyll"
     },
@@ -12,37 +80,71 @@
       "path": "CNAME"
     },
     {
-      "path": "commands\\configurations\\index.html"
+      "path": "commands\\configurations\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\forms\\index.html"
+      "path": "commands\\forms\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\giveaways\\index.html"
+      "path": "commands\\giveaways\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\index.html"
+      "path": "commands\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\moderation\\index.html"
+      "path": "commands\\moderation\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\polls\\index.html"
+      "path": "commands\\polls\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\suggestions\\index.html"
+      "path": "commands\\suggestions\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\templates\\index.html"
+      "path": "commands\\templates\\index.html",
+      "old": true
     },
     {
-      "path": "commands\\utility\\index.html"
+      "path": "commands\\utility\\index.html",
+      "old": true
     },
     {
-      "path": "getting-started\\index.html"
+      "path": "getting-started\\index.html",
+      "old": true
+    },
+    {
+      "path": "guides\\appeals\\index.html"
+    },
+    {
+      "path": "guides\\cases\\index.html"
+    },
+    {
+      "path": "guides\\flags\\index.html"
+    },
+    {
+      "path": "guides\\permissions\\index.html"
+    },
+    {
+      "path": "guides\\punishments\\index.html"
+    },
+    {
+      "path": "guides\\settings\\index.html"
+    },
+    {
+      "path": "guides\\time-arguments\\index.html"
     },
     {
       "path": "index.html"
+    },
+    {
+      "path": "privacy-policy\\index.html"
     },
     {
       "path": "resources\\css\\retype.css"
@@ -60,7 +162,8 @@
       "path": "resources\\js\\lunr.js"
     },
     {
-      "path": "resources\\js\\prism.js"
+      "path": "resources\\js\\prism.js",
+      "old": true
     },
     {
       "path": "resources\\js\\retype.js"
@@ -75,13 +178,27 @@
       "path": "resources\\mermaid.js.LICENSE.txt"
     },
     {
+      "path": "resources\\our-staff\\index.html"
+    },
+    {
+      "path": "resources\\premium\\index.html"
+    },
+    {
       "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\privacy-policy\\index.html",
+      "old": true
     },
     {
       "path": "resources\\retype.js.LICENSE.txt"
     },
     {
       "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "resources\\terms-of-service\\index.html",
+      "old": true
     },
     {
       "path": "robots.txt"
@@ -93,28 +210,36 @@
       "path": "static\\custom.scss"
     },
     {
-      "path": "static\\forms1.png"
+      "path": "static\\forms1.png",
+      "old": true
     },
     {
-      "path": "static\\forms2.png"
+      "path": "static\\forms2.png",
+      "old": true
     },
     {
-      "path": "static\\forms3.png"
+      "path": "static\\forms3.png",
+      "old": true
     },
     {
-      "path": "static\\forms4.png"
+      "path": "static\\forms4.png",
+      "old": true
     },
     {
-      "path": "static\\forms5.png"
+      "path": "static\\forms5.png",
+      "old": true
     },
     {
-      "path": "static\\giveaways1.png"
+      "path": "static\\giveaways1.png",
+      "old": true
     },
     {
-      "path": "static\\giveaways2.png"
+      "path": "static\\giveaways2.png",
+      "old": true
     },
     {
-      "path": "static\\giveaways3.png"
+      "path": "static\\giveaways3.png",
+      "old": true
     },
     {
       "path": "static\\logo_circle.png"
@@ -126,58 +251,86 @@
       "path": "static\\nziie.png"
     },
     {
-      "path": "static\\polls1.png"
+      "path": "static\\polls1.png",
+      "old": true
     },
     {
-      "path": "static\\polls2.png"
+      "path": "static\\polls2.png",
+      "old": true
     },
     {
-      "path": "static\\polls3.png"
+      "path": "static\\polls3.png",
+      "old": true
     },
     {
-      "path": "static\\suggestions1.png"
+      "path": "static\\suggestions1.png",
+      "old": true
     },
     {
-      "path": "static\\suggestions2.png"
+      "path": "static\\suggestions2.png",
+      "old": true
     },
     {
-      "path": "static\\suggestions3.png"
+      "path": "static\\suggestions3.png",
+      "old": true
     },
     {
-      "path": "static\\suggestions4.png"
+      "path": "static\\suggestions4.png",
+      "old": true
     },
     {
-      "path": "static\\suggestions5.png"
+      "path": "static\\suggestions5.png",
+      "old": true
     },
     {
-      "path": "static\\templates1.png"
+      "path": "static\\templates1.png",
+      "old": true
     },
     {
-      "path": "static\\templates2.png"
+      "path": "static\\templates2.png",
+      "old": true
     },
     {
-      "path": "time-arguments\\index.html"
+      "path": "terms-of-service\\index.html"
     },
     {
-      "path": "troubleshooting\\index.html"
+      "path": "time-arguments\\index.html",
+      "old": true
     },
     {
-      "path": "updates\\index.html"
+      "path": "troubleshooting\\index.html",
+      "old": true
     },
     {
-      "path": "updates\\january-roadmap\\index.html"
+      "path": "updates\\forced-deprecation\\index.html"
     },
     {
-      "path": "updates\\v1.2.3\\index.html"
+      "path": "updates\\index.html",
+      "old": true
     },
     {
-      "path": "updates\\v1.3.0\\index.html"
+      "path": "updates\\january-roadmap\\index.html",
+      "old": true
     },
     {
-      "path": "updates\\v2-rewrite\\index.html"
+      "path": "updates\\v1.2.3\\index.html",
+      "old": true
     },
     {
-      "path": "updates\\v2\\index.html"
+      "path": "updates\\v1.3.0\\index.html",
+      "old": true
+    },
+    {
+      "path": "updates\\v2-rewrite\\index.html",
+      "old": true
+    },
+    {
+      "path": "updates\\v2\\index.html",
+      "old": true
+    },
+    {
+      "path": "updates\\v3-rebrand\\index.html",
+      "old": true
     }
   ]
 }

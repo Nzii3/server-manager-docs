@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docs.manager.nziie.xyz/sitemap.xml.gz
+Sitemap: https://hys.nziie.xyz/sitemap.xml.gz
