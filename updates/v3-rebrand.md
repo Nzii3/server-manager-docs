@@ -14,7 +14,7 @@ Sentry will primarily function as an advanced moderation bot, with the integrati
 The release of Sentry is slated for mid-January 2024, the goal being January 7th.
 
 ## Data Migration
-Regrettably, server data, encompassing cases, giveaways, templates, suggestions, form data, and more, will not be automatically transferred. Servers currently using Server Manager will experience a data reset upon joining Sentry, initiating a fresh start.
+Regrettably, server data, encompassing cases, giveaways, suggestions, form data, and more, will not be automatically transferred. **Templates data can be requested to transfer upon the server owner's request by contacting us in our [development server](https://r.nziie.xyz/sentry-support)**. Servers currently using Server Manager will experience a data reset upon joining Sentry, initiating a fresh start - this will happen when Sentry's code is put into the bot. Server Manager's code is currently in the bot but the bot is branded as Sentry at the moment.
 
 > If you wish to obtain your server's data from Server Manager's database, please direct message me before ~January 10th. Include your server's ID for verification. Please note that data retrieval is limited to server owners for privacy reasons, and co-owners or administrators are excluded.
 
